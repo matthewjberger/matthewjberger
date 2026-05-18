@@ -1,8 +1,8 @@
 # Matthew Berger
 
-Senior Staff Rust Software Engineer specializing in robotics, embedded systems, and graphics. Founding engineer at Hyphen, where I built the food assembly robotics controls suite from zero to production in 22 months, underpinning $35M+ raised from Chipotle and Cava.
+Senior Staff Rust Software Engineer. I write production Rust at every layer of the stack, from bare-metal firmware to cloud. Founding engineer at Hyphen, where I built the food assembly robotics controls suite from zero to production in 22 months, underpinning $35M+ raised from Chipotle and Cava.
 
-Background spans embedded firmware to cloud, with prior production experience in aerospace imaging (Sierra Nevada Corporation) and safety-critical medical robotics (Hamilton Company). 9+ years writing Rust.
+Prior production experience in aerospace imaging (Sierra Nevada Corporation) and safety-critical medical robotics (Hamilton Company). 9+ years writing Rust.
 
 ## Notable work
 
