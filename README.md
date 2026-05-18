@@ -13,7 +13,14 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 - [enum2 derive macro family](https://github.com/matthewjberger?tab=repositories&q=enum2): **230k+ combined downloads** on crates.io for enum-driven design patterns; several (including enum2contract and enum2str) used in production Rust at Hyphen Robotics.
 - [wgpu-example](https://github.com/matthewjberger/wgpu-example): cross-platform Rust + wgpu + egui template running on native, web, Android, Steam Deck, and OpenXR VR.
 
-Other published work at [crates.io/users/matthewjberger](https://crates.io/users/matthewjberger).
+## Other projects
+
+- [bamboo](https://github.com/matthewjberger/bamboo): fast Rust static site generator that powers matthewberger.dev
+- [cameras](https://github.com/matthewjberger/cameras): cross-platform Rust camera library with data-oriented design
+- [stateless](https://github.com/matthewjberger/stateless): state machine library with a DSL separating structure from behavior
+- [frost](https://github.com/matthewjberger/frost): statically-typed programming language with Rust-inspired ownership and a dual backend (bytecode VM + Cranelift JIT)
+
+Also: [dragonglass](https://github.com/matthewjberger/dragonglass) (PBR Vulkan engine), [dhcplease](https://github.com/matthewjberger/dhcplease) (DHCP server), [clippr](https://github.com/matthewjberger/clippr) (MP4 to GIF tool), and [charter](https://github.com/matthewjberger/charter) (Rust codebase context generator for LLMs). See [crates.io/users/matthewjberger](https://crates.io/users/matthewjberger) for the full list of published Rust crates.
 
 ## Links
 
