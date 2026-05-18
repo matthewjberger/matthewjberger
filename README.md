@@ -13,6 +13,8 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 - [enum2 derive macro family](https://github.com/matthewjberger?tab=repositories&q=enum2): **230k+ combined downloads** on crates.io for enum-driven design patterns; several (including enum2contract and enum2str) used in production Rust at Hyphen Robotics.
 - [wgpu-example](https://github.com/matthewjberger/wgpu-example): cross-platform Rust + wgpu + egui template running on native, web, Android, Steam Deck, and OpenXR VR.
 
+Other published work at [crates.io/users/matthewjberger](https://crates.io/users/matthewjberger).
+
 ## Links
 
 - [matthewberger.dev](https://matthewberger.dev) (portfolio and articles)
