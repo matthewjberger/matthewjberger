@@ -4,7 +4,7 @@
 
 Senior Staff Rust Software Engineer. I have written production Rust at every layer of the stack, from bare-metal firmware to cloud infrastructure. Founding software engineer at Hyphen Robotics, where I built a food assembly robotics controls suite from zero to production in **22 months**, underpinning **$35M+** raised from Chipotle and Cava.
 
-**10+ years writing Rust**, with the last 5 years in production food assembly robotics at Hyphen Robotics and earlier production Rust in aerospace imaging at Sierra Nevada Corporation. Background also includes safety-critical medical robotics at Hamilton Company.
+**5+ years of production Rust**, writing Rust since 2016. The most recent 5 at Hyphen Robotics (food assembly robotics), with earlier production Rust at Sierra Nevada Corporation (aerospace imaging). Background also includes safety-critical medical robotics at Hamilton Company.
 
 ## Notable work
 
