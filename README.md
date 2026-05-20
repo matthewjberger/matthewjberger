@@ -26,8 +26,8 @@ Also: [dragonglass](https://github.com/matthewjberger/dragonglass) (PBR Vulkan e
 
 ## Go projects
 
-- [rendergraph-go](https://github.com/matthewjberger/rendergraph-go): experimental Go port of Nightshade exploring how its data-oriented design (ECS-as-storage, render graph, dual-world separation) transfers across languages
+- [indigo](https://github.com/matthewjberger/indigo): early data-oriented Go game engine with an archetype ECS, a wgpu-backed render graph, dual-world simulation/render separation, and free-function systems on a named schedule; native (GLFW) and web (WebAssembly) targets
 - [freecs-go](https://github.com/matthewjberger/freecs-go): archetype ECS for Go, port of the freecs Rust library
-- [stateless-go](https://github.com/matthewjberger/stateless-go): zero-cost state machine code generator for Go, port of the stateless Rust crate
 - [wgpu-example-go](https://github.com/matthewjberger/wgpu-example-go): Go port of wgpu-example with a spinning RGB triangle on native desktop (GLFW) and WebGPU (WASM)
+- [stateless-go](https://github.com/matthewjberger/stateless-go): state machine code generator for Go that decouples data from behavior
 - [pubsub-go](https://github.com/matthewjberger/pubsub-go): small JSON-over-TCP pub/sub broker and client in Go, data-oriented design
