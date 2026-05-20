@@ -6,6 +6,8 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 
 **Working with Rust since 2016**, with 5 years in production robotics at Hyphen Robotics and earlier production Rust at Sierra Nevada Corporation (aerospace imaging). Background also includes medical robotics at Hamilton Company.
 
+[matthewberger.dev](https://matthewberger.dev) (portfolio and articles) · [matthewberger.dev/nightshade](https://matthewberger.dev/nightshade) (Nightshade live demo) · [LinkedIn](https://linkedin.com/in/matthewjberger)
+
 ## Notable work
 
 - [Nightshade](https://github.com/matthewjberger/nightshade): data-oriented Rust game engine (200k+ LOC) with an advanced PBR renderer and custom render graph, built-in editor, rapier3d physics, kira audio, gltf asset loading, scene graph, object picking, and Steam integration. Runs natively on DX12/Metal/Vulkan and in-browser via WebGPU. [Live demo](https://matthewberger.dev/nightshade).
@@ -27,9 +29,3 @@ Also: [dragonglass](https://github.com/matthewjberger/dragonglass) (PBR Vulkan e
 - [stateless-go](https://github.com/matthewjberger/stateless-go): zero-cost state machine code generator for Go, port of the stateless Rust crate
 - [wgpu-example-go](https://github.com/matthewjberger/wgpu-example-go): Go port of wgpu-example with a spinning RGB triangle on native desktop (GLFW) and WebGPU (WASM)
 - [pubsub-go](https://github.com/matthewjberger/pubsub-go): small JSON-over-TCP pub/sub broker and client in Go, data-oriented design
-
-## Links
-
-- [matthewberger.dev](https://matthewberger.dev) (portfolio and articles)
-- [matthewberger.dev/nightshade](https://matthewberger.dev/nightshade) (Nightshade live demo)
-- [LinkedIn](https://linkedin.com/in/matthewjberger)
