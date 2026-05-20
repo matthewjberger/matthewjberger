@@ -15,6 +15,8 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 - [enum2 derive macro family](https://github.com/matthewjberger?tab=repositories&q=enum2): **230k+ combined downloads** on crates.io for enum-driven design patterns; several (including enum2contract and enum2str) used in production Rust at Hyphen Robotics.
 - [wgpu-example](https://github.com/matthewjberger/wgpu-example): cross-platform Rust + wgpu + egui template running on native, web, Android, Steam Deck, and OpenXR VR.
 
+## Other projects
+
 - [bamboo](https://github.com/matthewjberger/bamboo): fast Rust static site generator that powers matthewberger.dev
 - [cameras](https://github.com/matthewjberger/cameras): cross-platform Rust camera library with data-oriented design
 - [stateless](https://github.com/matthewjberger/stateless): state machine library with a DSL separating structure from behavior
@@ -24,7 +26,7 @@ Also: [dragonglass](https://github.com/matthewjberger/dragonglass) (PBR Vulkan e
 
 ## Go projects
 
-- [engine-go](https://github.com/matthewjberger/engine-go): data-oriented Go demoscene runtime with a custom ECS and wgpu render graph
+- [rendergraph-go](https://github.com/matthewjberger/rendergraph-go): experimental Go port of Nightshade exploring how its data-oriented design (ECS-as-storage, render graph, dual-world separation) transfers across languages
 - [freecs-go](https://github.com/matthewjberger/freecs-go): archetype ECS for Go, port of the freecs Rust library
 - [stateless-go](https://github.com/matthewjberger/stateless-go): zero-cost state machine code generator for Go, port of the stateless Rust crate
 - [wgpu-example-go](https://github.com/matthewjberger/wgpu-example-go): Go port of wgpu-example with a spinning RGB triangle on native desktop (GLFW) and WebGPU (WASM)
