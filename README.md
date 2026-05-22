@@ -14,10 +14,10 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 - [freecs](https://github.com/matthewjberger/freecs): archetype-based ECS in Rust with zero unsafe code, Rayon-parallel execution, sparse-set tags, and compile-time generation; the foundation of Nightshade. **48k+ downloads** on crates.io. Design documented in a [3-part article series](https://matthewberger.dev/articles).
 - [enum2 derive macro family](https://github.com/matthewjberger?tab=repositories&q=enum2): **230k+ combined downloads** on crates.io for enum-driven design patterns; several (including enum2contract and enum2str) used in production Rust at Hyphen Robotics.
 - [wgpu-example](https://github.com/matthewjberger/wgpu-example): cross-platform Rust + wgpu + egui template running on native, web, Android, Steam Deck, and OpenXR VR.
+- [bamboo](https://github.com/matthewjberger/bamboo): fast Rust static site generator that powers matthewberger.dev. [Live demo](https://matthewberger.dev/bamboo/).
 
 ## Other projects
 
-- [bamboo](https://github.com/matthewjberger/bamboo): fast Rust static site generator that powers matthewberger.dev
 - [cameras](https://github.com/matthewjberger/cameras): cross-platform Rust camera library with data-oriented design
 - [stateless](https://github.com/matthewjberger/stateless): state machine library with a DSL separating structure from behavior
 - [frost](https://github.com/matthewjberger/frost): statically-typed programming language with Rust-inspired ownership and a dual backend (bytecode VM + Cranelift JIT)
