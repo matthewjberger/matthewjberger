@@ -6,7 +6,7 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 
 **Working with Rust since 2016**, with 5 years in production robotics at Hyphen Robotics and earlier production Rust at Sierra Nevada Corporation (aerospace imaging). Background also includes medical robotics at Hamilton Company.
 
-[matthewberger.dev](https://matthewberger.dev) (portfolio and articles) · [LinkedIn](https://linkedin.com/in/matthewjberger)
+[matthewberger.dev](https://matthewberger.dev) · [LinkedIn](https://linkedin.com/in/matthewjberger)
 
 ## Notable work
 
