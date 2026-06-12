@@ -20,6 +20,7 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 
 ## Other projects
 
+- [hearsay](https://github.com/matthewjberger/hearsay): topic-based pub/sub for Rust built on tokio; an in-process broker with TCP and WebSocket peers, typed enum contracts, broker bridging, message batching, and supervised child processes
 - [cameras](https://github.com/matthewjberger/cameras): cross-platform Rust camera library with data-oriented design
 - [stateless](https://github.com/matthewjberger/stateless): state machine library with a DSL separating structure from behavior
 - [frost](https://github.com/matthewjberger/frost): statically-typed programming language with Rust-inspired ownership and a dual backend (bytecode VM + Cranelift JIT)
