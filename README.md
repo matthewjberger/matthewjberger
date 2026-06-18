@@ -19,6 +19,7 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 
 ## Other projects
 
+- [mobius](https://github.com/matthewjberger/mobius): orchestrates a graph of Claude Code agents that feed each other in loops. A tokio host owns the agent subprocesses over a hearsay bus, a Leptos UI in a wry webview visualizes and drives the graph, and a conductor agent takes plain-English commands through MCP. Stage a graph as data, execute it, and watch the agents pass work along the edges. All Rust; the web UI deploys to GitHub Pages and connects to a local host over websockets.
 - [hearsay](https://github.com/matthewjberger/hearsay): topic-based pub/sub for Rust built on tokio; an in-process broker with TCP and WebSocket peers, typed enum contracts, broker bridging, message batching, and supervised child processes
 - [cameras](https://github.com/matthewjberger/cameras): cross-platform Rust camera library with data-oriented design
 - [stateless](https://github.com/matthewjberger/stateless): state machine library with a DSL separating structure from behavior
