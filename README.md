@@ -25,7 +25,7 @@ Senior Staff Rust Software Engineer. I have written production Rust at every lay
 - [stateless](https://github.com/matthewjberger/stateless): state machine library with a DSL separating structure from behavior
 - [frost](https://github.com/matthewjberger/frost): statically-typed programming language with Rust-inspired ownership and a dual backend (bytecode VM + Cranelift JIT)
 - [mobius](https://github.com/matthewjberger/mobius): orchestrates a graph of Claude Code agents that feed each other in loops. A tokio host owns the agent subprocesses over a hearsay bus, a Leptos UI in a wry webview visualizes and drives the graph, and a conductor agent takes plain-English commands through MCP. Stage a graph as data, execute it, and watch the agents pass work along the edges. All Rust; the web UI deploys to GitHub Pages and connects to a local host over websockets.
-- 
+ 
 Also: [dragonglass](https://github.com/matthewjberger/dragonglass) (PBR Vulkan engine), [dhcplease](https://github.com/matthewjberger/dhcplease) (DHCP server), [clippr](https://github.com/matthewjberger/clippr) (MP4 to GIF tool), and [charter](https://github.com/matthewjberger/charter) (Rust codebase context generator for LLMs). See [crates.io/users/matthewjberger](https://crates.io/users/matthewjberger) for the full list of published Rust crates.
 
 ## Go projects
