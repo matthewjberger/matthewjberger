@@ -1,7 +1,5 @@
 # Matthew Berger
 
-> Actively looking for Senior / Staff+ SWE Rust roles (open to Senior Go).
-
 Senior Staff Rust Software Engineer. I have written production Rust at every layer of the stack, from bare-metal firmware to cloud infrastructure. Founding software engineer at Hyphen Robotics, where I built a food assembly robotics controls suite from zero to production in **22 months**, underpinning **$35M+** raised from Chipotle and Cava.
 
 **Working with Rust since 2016**, with 5 years in production robotics at Hyphen Robotics and earlier production Rust at Sierra Nevada Corporation (aerospace imaging). Background also includes medical robotics at Hamilton Company.
