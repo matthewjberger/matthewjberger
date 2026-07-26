@@ -31,5 +31,3 @@ Also: [dragonglass](https://github.com/matthewjberger/dragonglass) (PBR Vulkan e
 - [freecs-go](https://github.com/matthewjberger/freecs-go): archetype ECS for Go, port of the freecs Rust library
 - [wgpu-example-go](https://github.com/matthewjberger/wgpu-example-go): Go port of wgpu-example with a spinning RGB triangle on native desktop (GLFW) and WebGPU (WASM)
 - [stateless-go](https://github.com/matthewjberger/stateless-go): state machine code generator for Go that decouples data from behavior
-- [pubsub-go](https://github.com/matthewjberger/pubsub-go): small JSON-over-TCP pub/sub broker and client in Go, data-oriented design
-- [terminal-go](https://github.com/matthewjberger/terminal-go): tiny data-oriented Go text adventure (Zork-style) with SoA room/item tables, bitset tags, free-function verbs, and one-call gob save/load
